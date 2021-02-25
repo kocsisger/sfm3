@@ -4,3 +4,4 @@ barack
 szilva
 málna - eper
 meggy
+fenyő

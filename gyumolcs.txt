@@ -2,5 +2,5 @@ alma
 korte
 barack
 szilva
-málna
-banán
+málna - eper
+meggy
